@@ -1,27 +1,56 @@
-# Routing
+# ToDo List Single Page Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
+EasyTask is a Single Page Application, where users can add tasks, to different members. 
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## The main logic of the App:
 
-## Code scaffolding
+* Adding new tasks, for the users
+* Completing tasks
+* Sorting tasks in ascending/descending order
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## Used Technologies
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+* Angular 18
+* RxJs 7.8
+* Typescript 5.4.2
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Run the project
 
-## Running end-to-end tests
+To run the project you will need the required technologies above
+1. To run the project, you need to clone the project from this repository;
+2. Run npm install - to install all the dependencies
+3. Run npm start
+4. Open localhost:4200 in the browser
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## App screenshots
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Main page
+
+![image](https://github.com/user-attachments/assets/2126b269-a318-4377-8595-45f3bd03e307)
+
+No tasks
+
+![image](https://github.com/user-attachments/assets/1802a38f-48c2-40c4-8125-a90b56316713)
+
+Multiple tasks
+
+![image](https://github.com/user-attachments/assets/5d6d6ea8-6981-42f3-a654-a4511cfd2c66)
+
+Add Tasks
+
+![image](https://github.com/user-attachments/assets/92e9e34a-17cf-406e-8824-85514f02a4a5)
+
+
+## Contacts
+
+* name: Vasilijs Volkovs
+* email: uasjap@gmail.com
+* Telegram: @Vas5ja
