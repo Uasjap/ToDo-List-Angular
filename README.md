@@ -15,7 +15,6 @@ EasyTask is a Single Page Application, where users can add tasks, to different m
 ## Used Technologies
 
 * Angular 18
-* RxJs 7.8
 * Typescript 5.4.2
 
 ---
